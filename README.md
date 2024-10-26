@@ -1,4 +1,5 @@
 # Predict gender from hand image.
 
-Dataset Link: https://sites.google.com/view/11khands
+Dataset: https://sites.google.com/view/11khands
 
+Mobile App: https://github.com/Ashrockzzz2003/DeriveFromHand
