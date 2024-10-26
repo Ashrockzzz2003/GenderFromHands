@@ -1,0 +1,5 @@
+Hands
+test
+train
+bin/*.h5
+bin/*.tflite
