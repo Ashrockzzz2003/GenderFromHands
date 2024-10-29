@@ -5,3 +5,6 @@
 
 - Dataset: https://sites.google.com/view/11khands
 - Mobile App: https://github.com/Ashrockzzz2003/DeriveFromHand
+
+## Model Architecture
+![image](https://github.com/user-attachments/assets/eaf76838-be53-45e2-b30e-60f1c0b6fdee)
